@@ -1,6 +1,6 @@
 import React from "react";
 import ReactDOM from "react-dom";
-import demo from "../images/1653330140358.jpg";
+import demo from "../images/1653330140358 (1) (1).jpg";
 import Typewriter from "typewriter-effect";
 
 export class Body extends React.Component {
