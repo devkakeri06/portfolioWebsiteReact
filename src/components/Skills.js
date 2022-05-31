@@ -98,7 +98,7 @@ export class Skills extends React.Component {
                   style={{ width: "85%" }}
                 ></div>
               </div>
-              <h6>Networking</h6>
+              <h6>Python</h6>
               <div
                 class="progress"
                 style={{
@@ -116,7 +116,7 @@ export class Skills extends React.Component {
                   style={{ width: "60%" }}
                 ></div>
               </div>
-              <h6>DevOps</h6>
+              <h6>Machine Learning</h6>
               <div
                 class="progress"
                 style={{
