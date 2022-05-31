@@ -1,8 +1,8 @@
 import React from "react";
 import ReactDOM from "react-dom";
-import resume1 from "../images/resume1.JPG";
-import resume2 from "../images/resume2.JPG";
-import resumepdf from "../images/RESUMEPDF.pdf";
+import resume1 from "../images/Capture.JPG";
+// import resume2 from "../images/resume2.JPG";
+import resumepdf from "../images/Devaansh_Kakeri_.pdf";
 
 export class Resume extends React.Component {
   render() {
@@ -21,13 +21,7 @@ export class Resume extends React.Component {
                 id="res1"
               ></img>
             </div>
-            <div className="col">
-              <img
-                src={resume2}
-                style={{ border: "2px solid black", height: "700px" }}
-                id="res2"
-              ></img>
-            </div>
+            
           </div>
         </div>
         <div style={{ marginBottom: "50px" }}>
